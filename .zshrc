@@ -48,3 +48,6 @@ fi
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
+# Custom Environment Variables
+export MAIL=aroque@student.42sp.org.br
+
